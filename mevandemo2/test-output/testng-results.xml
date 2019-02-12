@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21350" started-at="2019-02-12T05:47:59Z" finished-at="2019-02-12T05:48:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21350" started-at="2019-02-12T05:47:59Z" finished-at="2019-02-12T05:48:20Z">
+      <class name="com.test.mevandemo.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.mevandemo.NewTest@9629756]" name="beforeTest" is-config="true" duration-ms="12418" started-at="2019-02-12T11:17:59Z" finished-at="2019-02-12T11:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.mevandemo.NewTest@9629756]" name="f" duration-ms="8892" started-at="2019-02-12T11:18:11Z" finished-at="2019-02-12T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.mevandemo.NewTest@9629756]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-02-12T11:18:20Z" finished-at="2019-02-12T11:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.test.mevandemo.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
